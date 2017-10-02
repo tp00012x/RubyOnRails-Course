@@ -30,4 +30,4 @@ numbers[:e] = 5
 
 #
 numbers2 = numbers.select {|k,v| v.odd?}
-puts numbers2
+print numbers2
