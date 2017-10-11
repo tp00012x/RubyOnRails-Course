@@ -78,3 +78,10 @@ case
     song.play
 end
 
+########
+
+def send_mail(source)
+  Mailer.deliver(
+    to: 'bob@yahoo.com',
+    from: 'sexy@sexy.com')
+end
