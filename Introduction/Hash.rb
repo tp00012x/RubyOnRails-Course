@@ -18,7 +18,7 @@ puts my_hash
 
 #Iterating through has
 
-my_hash.each {|k,v| puts k,v}
+my_hash.each { |k,v| puts k,v }
 
 #
 
