@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da18a61d-d836-4f9c-93dc-ef769942af68" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object_Oriented_Programming/user.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object_Oriented_Programming/OOP_project/runner.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object_Oriented_Programming/OOP_project/user.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object_Oriented_Programming/OOP_project/user_permissions_template.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object_Oriented_Programming/OOP_project/users.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object_Oriented_Programming/inheritance.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +18,18 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="RubyMine2017.2/coverage/Ruby@IRB_console__Ruby.coverage" NAME="IRB console: Ruby Coverage Results" MODIFIED="1506806691097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby" />
-    <SUITE FILE_PATH="RubyMine2017.2/coverage/Ruby@Hash.coverage" NAME="Hash Coverage Results" MODIFIED="1506836007055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction" MODULE_NAME="Ruby" />
-    <SUITE FILE_PATH="coverage/Ruby@user.coverage" NAME="user Coverage Results" MODIFIED="1507757520396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object_Oriented_Programming" MODULE_NAME="Ruby" />
-    <SUITE FILE_PATH="RubyMine2017.2/coverage/Ruby@playground.coverage" NAME="playground Coverage Results" MODIFIED="1506801712968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction" MODULE_NAME="Ruby" />
-    <SUITE FILE_PATH="RubyMine2017.2/coverage/Ruby@analyzer.coverage" NAME="analyzer Coverage Results" MODIFIED="1506803890719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@ruby_style_guide.coverage" NAME="ruby_style_guide Coverage Results" MODIFIED="1507691383653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="RubyMine2017.2/coverage/Ruby@helloworldmethod.coverage" NAME="helloworldmethod Coverage Results" MODIFIED="1506799780913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@homework_project.coverage" NAME="homework_project Coverage Results" MODIFIED="1507695031478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction" MODULE_NAME="Ruby" />
+    <SUITE FILE_PATH="coverage/Ruby@runner.coverage" NAME="runner Coverage Results" MODIFIED="1507759848473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object_Oriented_Programming/OOP_project" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="RubyMine2017.2/coverage/Ruby@Arrays_Iterators.coverage" NAME="Arrays_Iterators Coverage Results" MODIFIED="1506810096698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="RubyMine2017.2/coverage/Ruby@hello.coverage" NAME="hello Coverage Results" MODIFIED="1506796393821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="RubyMine2017.2/coverage/Ruby@hellowordstring.coverage" NAME="hellowordstring Coverage Results" MODIFIED="1506796838467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction" MODULE_NAME="Ruby" />
+    <SUITE FILE_PATH="coverage/Ruby@inheritance.coverage" NAME="inheritance Coverage Results" MODIFIED="1507758319525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object_Oriented_Programming" MODULE_NAME="Ruby" />
+    <SUITE FILE_PATH="RubyMine2017.2/coverage/Ruby@Hash.coverage" NAME="Hash Coverage Results" MODIFIED="1506836007055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction" MODULE_NAME="Ruby" />
+    <SUITE FILE_PATH="coverage/Ruby@user.coverage" NAME="user Coverage Results" MODIFIED="1507757777567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object_Oriented_Programming" MODULE_NAME="Ruby" />
+    <SUITE FILE_PATH="RubyMine2017.2/coverage/Ruby@playground.coverage" NAME="playground Coverage Results" MODIFIED="1506801712968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction" MODULE_NAME="Ruby" />
+    <SUITE FILE_PATH="RubyMine2017.2/coverage/Ruby@analyzer.coverage" NAME="analyzer Coverage Results" MODIFIED="1506803890719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction" MODULE_NAME="Ruby" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -39,10 +45,20 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="user.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Object_Oriented_Programming/user.rb">
+        <entry file="file://$PROJECT_DIR$/Object_Oriented_Programming/OOP_project/user.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+            <state relative-caret-position="345">
+              <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user_permissions_template.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Object_Oriented_Programming/OOP_project/user_permissions_template.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -75,6 +91,11 @@
         <option value="$PROJECT_DIR$/Introduction/ruby_style_guide.rb" />
         <option value="$PROJECT_DIR$/Introduction/homework_project.rb" />
         <option value="$PROJECT_DIR$/Object_Oriented_Programming/user.rb" />
+        <option value="$PROJECT_DIR$/Object_Oriented_Programming/inheritance.rb" />
+        <option value="$PROJECT_DIR$/Object_Oriented_Programming/OOP_project/user_permissions_template.json" />
+        <option value="$PROJECT_DIR$/Object_Oriented_Programming/OOP_project/user.rb" />
+        <option value="$PROJECT_DIR$/Object_Oriented_Programming/OOP_project/runner.rb" />
+        <option value="$PROJECT_DIR$/Object_Oriented_Programming/OOP_project/users.json" />
       </list>
     </option>
   </component>
@@ -159,6 +180,12 @@
               <item name="Ruby" type="462c0819:PsiDirectoryNode" />
               <item name="Object_Oriented_Programming" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Ruby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ruby" type="462c0819:PsiDirectoryNode" />
+              <item name="Object_Oriented_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP_project" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -187,43 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.user">
-    <configuration name="Arrays_Iterators" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="Ruby" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Introduction" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Introduction/Arrays_Iterators.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-    </configuration>
-    <configuration name="Hash" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="Ruby" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Introduction" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Introduction/Hash.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-    </configuration>
+  <component name="RunManager" selected="Ruby.runner">
     <configuration name="homework_project" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -242,6 +233,24 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Introduction/homework_project.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
+    <configuration name="inheritance" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Ruby" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Object_Oriented_Programming" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Object_Oriented_Programming/inheritance.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
     <configuration name="ruby_style_guide" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -258,6 +267,24 @@
         </COVERAGE_PATTERN>
       </EXTENSION>
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Introduction/ruby_style_guide.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
+    <configuration name="runner" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Ruby" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Object_Oriented_Programming/OOP_project" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Object_Oriented_Programming/OOP_project/runner.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
     <configuration name="user" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
@@ -279,19 +306,19 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.Arrays_Iterators" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.Hash" />
-      <item index="2" class="java.lang.String" itemvalue="Ruby.ruby_style_guide" />
-      <item index="3" class="java.lang.String" itemvalue="Ruby.homework_project" />
-      <item index="4" class="java.lang.String" itemvalue="Ruby.user" />
+      <item index="0" class="java.lang.String" itemvalue="Ruby.ruby_style_guide" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.homework_project" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.user" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.inheritance" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.runner" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.user" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.homework_project" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.ruby_style_guide" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.Hash" />
-        <item index="4" class="java.lang.String" itemvalue="Ruby.Arrays_Iterators" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.runner" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.inheritance" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.user" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.homework_project" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.ruby_style_guide" />
       </list>
     </recent_temporary>
   </component>
@@ -313,12 +340,12 @@
       <workItem from="1506794940771" duration="8600000" />
       <workItem from="1506835998810" duration="132000" />
       <workItem from="1506987284321" duration="623000" />
-      <workItem from="1507690917840" duration="5345000" />
+      <workItem from="1507690917840" duration="7463000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15336000" />
+    <option name="totallyTimeSpent" value="17454000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1154" y="-1417" width="946" height="1367" extended-state="0" />
@@ -452,8 +479,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Object_Oriented_Programming/user.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object_Oriented_Programming/inheritance.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="38" column="18" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object_Oriented_Programming/OOP_project/user_permissions_template.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object_Oriented_Programming/OOP_project/users.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="57" lean-forward="true" selection-start-line="0" selection-start-column="57" selection-end-line="0" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object_Oriented_Programming/OOP_project/runner.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object_Oriented_Programming/OOP_project/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
           <folding />
         </state>
       </provider>
